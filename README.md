@@ -6,5 +6,5 @@ Details: View detailed information about each Pokemon, including types, abilitie
 Search
 
 To run the React Native Pokedex App on your local machine
-npm install
+npm install and
 npx react-native run-android or npx react-native run-ios
